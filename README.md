@@ -1,6 +1,7 @@
 <h1 align="center">Hi! I'm Oliver,</h1>
 <h3 align="center">an impassioned web developer in Milwaukee, Wisconsin.</h3>
-<h4 align="center">he/him/his</h4>
+<p align="center">he/him/his</p>
+<br>
 
 - 🔭 I’m currently working on [The Odin Project: Ruby Path](https://www.theodinproject.com/)
 
@@ -9,8 +10,6 @@
 - 🔗 All of my projects are available at [https://github.com/olkone](https://github.com/olkone)
 
 - ✉️ How to reach me: **konecnyoliver@gmail.com**
-
-- 💫 Fun fact: **I cut my own hair**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
