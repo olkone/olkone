@@ -3,27 +3,33 @@
 <p align="center">he/him/his</p>
 <br>
 
-- 🔭 I’m currently working on **[The Odin Project: Full Stack JavaScript Path](https://www.theodinproject.com/)**. Here is my progress:
-  - **Foundations** ![100%](https://progress-bar.dev/100)
-    - ✅ CLI and Shell Script
-    - ✅ Git
-    - ✅ HTML foundations
-    - ✅ CSS foundations
-    - ✅ JavaScript basics
-    - ✅ Intro to backend
-    
-  - **Full Stack JavaScript** 
-    - Intermediate HTML and CSS ![43%](https://progress-bar.dev/43)
-    - JavaScript and React
-    - Advanced HTML and CSS
-    - Node.js, Express, and MongoDB
+* 🔭 I’m currently working on **[The Odin Project: Full Stack JavaScript Path](https://www.theodinproject.com/)**.
+<br><br>
+Here is my progress:
+  * **Foundations** ![100%](https://progress-bar.dev/100)
+    * ✅ CLI and Shell Script
+    * ✅ Git
+    * ✅ HTML foundations
+    * ✅ CSS foundations
+    * ✅ JavaScript basics
+      * Project 1: [Rock, Paper, Scissors](https://github.com/olkone/rock-paper-scissors/)
+      * Project 2: [Sketch!](https://github.com/olkone/sketch/)
+      * Project 3: [Calculator](https://github.com/olkone/calculator)
+    * ✅ Intro to backend
 
-- 🌱 I’m currently learning **Intermediate HTML and CSS concepts, Emmet**
-
-- 🔗 All of my projects are available at [https://github.com/olkone](https://github.com/olkone)
-
-- ✉️ How to reach me: **konecnyoliver@gmail.com**
-
+  * **Fullstack JavaScript** 
+    * Intermediate HTML and CSS ![70%](https://progress-bar.dev/70)
+      * Project: [Sign-up Form](https://github.com/olkone/sign-up-form)
+    * JavaScript and React
+    * Advanced HTML and CSS
+    * Node.js, Express, and MongoDB
+  <br><br>
+* 🌱 I’m currently learning **Intermediate HTML and CSS concepts: form creation, style, and validation**.
+<br><br>
+* 🔗 All of my projects are available at [https://github.com/olkone](https://github.com/olkone)
+<br><br>
+* ✉️ How to reach me: **konecnyoliver@gmail.com**
+<br><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/oliver-konecny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oliver-konecny" height="30" width="40" /></a>
