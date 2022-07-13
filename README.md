@@ -18,13 +18,14 @@ Here is my progress:
     * ✅ Intro to backend
 
   * **Fullstack JavaScript** 
-    * Intermediate HTML and CSS ![70%](https://progress-bar.dev/70)
+    * Intermediate HTML and CSS ![95%](https://progress-bar.dev/95)
       * Project: [Sign-up Form](https://github.com/olkone/sign-up-form)
+      * Project: [Admin Dashboard](https://github.com/olkone/admin-dashboard)
     * JavaScript and React
     * Advanced HTML and CSS
     * Node.js, Express, and MongoDB
   <br><br>
-* 🌱 I’m currently learning **Intermediate HTML and CSS concepts: form creation, style, and validation**.
+* 🌱 I’m currently learning **Intermediate HTML and CSS concepts: form validation, CSS grid**.
 <br><br>
 * 🔗 All of my projects are available at [https://github.com/olkone](https://github.com/olkone)
 <br><br>
