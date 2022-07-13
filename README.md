@@ -19,8 +19,8 @@ Here is my progress:
 
   * **Fullstack JavaScript** 
     * Intermediate HTML and CSS ![95%](https://progress-bar.dev/95)
-      * Project: [Sign-up Form](https://github.com/olkone/sign-up-form)
-      * Project: [Admin Dashboard](https://github.com/olkone/admin-dashboard)
+      * Project 1: [Sign-up Form](https://github.com/olkone/sign-up-form)
+      * Project 2: [Admin Dashboard](https://github.com/olkone/admin-dashboard)
     * JavaScript and React
     * Advanced HTML and CSS
     * Node.js, Express, and MongoDB
