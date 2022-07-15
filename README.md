@@ -17,11 +17,11 @@ Here is my progress:
       * Project 3: [Calculator](https://github.com/olkone/calculator)
     * ✅ Intro to backend
 
-  * **Fullstack JavaScript** 
-    * Intermediate HTML and CSS ![95%](https://progress-bar.dev/95)
+  * **Fullstack JavaScript**
+    * ✅ Intermediate HTML and CSS
       * Project 1: [Sign-up Form](https://github.com/olkone/sign-up-form)
       * Project 2: [Admin Dashboard](https://github.com/olkone/admin-dashboard)
-    * JavaScript and React
+    * JavaScript and React![](https://progress-bar.dev/)
     * Advanced HTML and CSS
     * Node.js, Express, and MongoDB
   <br><br>
