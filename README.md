@@ -21,7 +21,7 @@ Here is my progress:
     * ✅ Intermediate HTML and CSS
       * Project 4: [Sign-up Form](https://github.com/olkone/sign-up-form)
       * Project 5: [Admin Dashboard](https://github.com/olkone/admin-dashboard)
-    * JavaScript and React ![9%](https://progress-bar.dev/9)
+    * JavaScript and React ![11%](https://progress-bar.dev/11)
       * Project 6: [Library](https://github.com/olkone/library)
     * Advanced HTML and CSS
     * Node.js, Express, and MongoDB
