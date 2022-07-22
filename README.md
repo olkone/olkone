@@ -21,7 +21,7 @@ Here is my progress:
     * ✅ Intermediate HTML and CSS
       * Project 4: [Sign-up Form](https://github.com/olkone/sign-up-form)
       * Project 5: [Admin Dashboard](https://github.com/olkone/admin-dashboard)
-    * JavaScript and React ![13%](https://progress-bar.dev/13)
+    * JavaScript and React ![15%](https://progress-bar.dev/15)
       * Project 6: [Library](https://github.com/olkone/library)
       * Project 7: [Tic Tac Toe](https://github.com/olkone/tic-tac-toe)
     * Advanced HTML and CSS
@@ -30,9 +30,9 @@ Here is my progress:
 * 🌱 I’m currently learning about:
     * JavaScript objects
     * Object-oriented programming
-    * Factory functions
+    * Constructors and factory functions
     * Module patterns
-    * Private and public variables and functions
+    * Scope and closure
     <br>
 
 * 🔗 All of my projects are available at [https://github.com/olkone](https://github.com/olkone)
